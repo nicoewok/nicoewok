@@ -30,8 +30,15 @@
 ---
 
 <h3 align="left">GitHub Statistics:</h3>
+<table align="left">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicoewok&show_icons=true&theme=tokyonight" alt="Nico's Stats" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicoewok&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicoewok&show_icons=true&theme=transparent" alt="Nico's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoewok&layout=compact&theme=transparent" alt="Top Languages" height="150" />
-</p>
+<br clear="both" />
